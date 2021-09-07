@@ -13862,6 +13862,7 @@ zone "image.j-a-net.jp" { type master; notify no; file "/etc/bind/db.ads"; };
 zone "image.linkexchange.com" { type master; notify no; file "/etc/bind/db.ads"; };
 zone "image.masterstats.com" { type master; notify no; file "/etc/bind/db.ads"; };
 zone "image.moengage.com" { type master; notify no; file "/etc/bind/db.ads"; };
+zone "image.moshimo.com" { type master; notify no; file "/etc/bind/db.ads"; };
 zone "image.richrelevance.com" { type master; notify no; file "/etc/bind/db.ads"; };
 zone "image.s10.exacttarget.com" { type master; notify no; file "/etc/bind/db.ads"; };
 zone "image.s7.exacttarget.com" { type master; notify no; file "/etc/bind/db.ads"; };
